@@ -108,7 +108,7 @@ The single notebook (`notebook.ipynb`) contains the entire workflow:
 The complete analysis is provided in:
 
 ```
-Final_Report.pdf
+final_Report.pdf
 ```
 
 It includes:
